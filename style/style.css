@@ -9,3 +9,28 @@
 a {
     color: rgb(255, 38, 0);
 }
+
+.teste {
+
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+#bah {
+
+    font-weight: bold;
+    font-size: 27px;
+}
+
+a {
+    color: rgb(0, 120, 30);
+
+}
+
+ol li {
+    color: rgb(18, 71, 206);
+    background-color: rgb(17, 201, 78);
+    margin-left: 12px;
+    align-self: center;
+}
